@@ -1,6 +1,6 @@
 # contador_de_pessoas
 
-A new Flutter application.
+Primeiro exercício do curso de Flutter fazendo aplicativo para contar pessoas.
 
 ## Getting Started
 
